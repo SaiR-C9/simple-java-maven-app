@@ -39,10 +39,10 @@ public class AppTest
             fail("\"message\" is not \"Hello World!\"");
         }
     }
-
+/** SAI
     @After
     public void cleanUpStreams() {
         System.setOut(null);
-    }
+    } **/
 
 }
